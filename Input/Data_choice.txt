@@ -1,0 +1,2 @@
+S1 was excluded from JND analysis as he was colour blind and the data was very noisy.
+S2 requested that the response was not accurate, and wished the data to be excluded.
