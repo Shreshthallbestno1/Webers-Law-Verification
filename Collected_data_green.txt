@@ -1,0 +1,2 @@
+./Input/S6_green.txt
+./Input/S1_green.txt

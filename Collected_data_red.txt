@@ -1,0 +1,5 @@
+./Input/S8_red.txt
+./Input/S4_red.txt
+./Input/S5_red.txt
+./Input/S6_red.txt
+./Input/S7_red.txt
